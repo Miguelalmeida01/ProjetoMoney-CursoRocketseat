@@ -69,5 +69,4 @@
 
  <img src="img/Captura2.png" /> 
  
-<a href="https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-?tab=readme-ov-file#project-delivery---creating-a-landing-page-with-react--rocketseat" style="color:#B0E0E6;" >
-Back</a> 
+[back](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/tree/main?tab=readme-ov-file#project-deliverable---building-a-timer-with-react--rocketseat)
