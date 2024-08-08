@@ -2,7 +2,7 @@
 
 <img src="img/logohulk.png" style="width:9.975rem;text-align: right;"/>
 
-<a href="Readme-pt.md" style="color:#B0E0E6;">Portuguese</a>
+[Portuguese](Readme-pt.md)
 
 # Project Deliverable - Building a Timer with React | Rocketseat
 
@@ -69,4 +69,4 @@
 
  <img src="img/Captura2.png" /> 
  
-[back](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/tree/main?tab=readme-ov-file#project-deliverable---building-a-timer-with-react--rocketseat)
+[Back](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/tree/main?tab=readme-ov-file#project-deliverable---building-a-timer-with-react--rocketseat)

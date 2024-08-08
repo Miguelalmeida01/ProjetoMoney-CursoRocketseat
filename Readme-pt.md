@@ -71,4 +71,4 @@ Este projeto é uma aplicação de Timer totalmente funcional construída usando
 
 <img src="img/Captura2.png" />
 
-<a href="https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-?tab=readme-ov-file#project-delivery---creating-a-landing-page-with-react--rocketseat" style="color:#B0E0E6">Voltar</a> 
+[Voltar](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/blob/main/Readme-pt.md#entrega-de-projeto---criando-um-timer-com-react--rocketseat)
