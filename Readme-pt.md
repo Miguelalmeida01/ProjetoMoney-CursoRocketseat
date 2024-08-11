@@ -9,9 +9,9 @@
 
 
 
-# Entrega de projeto - Criando um Timer com React | Rocketseat
+# Entrega de projeto - Criando um Money com React | Rocketseat
 
-Este projeto é uma aplicação de Timer totalmente funcional construída usando React. O principal objetivo deste projeto é demonstrar como construir componentes e organizar efetivamente seu projeto React utilizando as ferramentas e recursos fornecidos pelo framework Vite.
+Este projeto é uma aplicação de Listagem totalmente funcional construída usando React. O principal objetivo deste projeto é demonstrar como construir componentes e organizar efetivamente seu projeto React utilizando as ferramentas e recursos fornecidos pelo framework Vite.
 
 ## Tecnologias Utilizadas
 
@@ -25,13 +25,13 @@ Este projeto é uma aplicação de Timer totalmente funcional construída usando
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-.git
+   git clone https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd Timer
+   cd Money
    ```
 
 3. Instale as dependências:   
@@ -63,12 +63,14 @@ Este projeto é uma aplicação de Timer totalmente funcional construída usando
    ```
 8. Projeto no Figma:
    ```bash
-   https://www.figma.com/design/zjvY9inly7CJVJLwe9G2kV/Ignite-Timer-%E2%80%A2-Projeto-React?node-id=0-1&t=Hd8siT3udcNs4jDm-0
+   https://www.figma.com/design/5IttjElJ9SngOIGAcOHGBv/DT-Money-(Community)?node-id=42081-343&m=dev
    ```
 
 ## Projeto na web
-<img src="img/Captura1.png" />
+<img src="img/Captura1.png" />  
 
-<img src="img/Captura2.png" />
+<img src="img/Captura2.png" />  
+
+<img src="img/Captura3.png" />  
 
 [Voltar](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/blob/main/Readme-pt.md#entrega-de-projeto---criando-um-timer-com-react--rocketseat)

@@ -4,10 +4,10 @@
 
 [Portuguese](Readme-pt.md)
 
-# Project Deliverable - Building a Timer with React | Rocketseat
 
- This project is a fully functional Timer application built using React. The main goal of this project is to demonstrate how to effectively build components and organize your React project using the tools and features provided by the Vite framework.
+# Project Delivery - Building a Money with React | Rocketseat 
 
+This project is a fully functional Listing application built using React. The main goal of this project is to demonstrate how to effectively build components and organize your React project using the tools and features provided by the Vite framework.
 ## Technologies Used 
 
 - TYPE SCRIPT
@@ -20,12 +20,12 @@
 1. Clone the repository: 
 
    ```bash 
-   git clone https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-.git 
+   git clone https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat.git 
    ``` 
 2. Navigate to the project directory: 
 
    ```bash 
-   cd Timer
+   cd Money
    ``` 
 
 3. Install the dependencies: 
@@ -68,5 +68,7 @@
  <img src="img/Captura1.png" /> 
 
  <img src="img/Captura2.png" /> 
+ 
+ <img src="img/Captura3.png" /> 
  
 [Back](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/tree/main?tab=readme-ov-file#project-deliverable---building-a-timer-with-react--rocketseat)
