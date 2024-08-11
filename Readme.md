@@ -60,7 +60,7 @@ This project is a fully functional Listing application built using React. The ma
 8. Design in Figma:
 
    ```bash
-   https://www.figma.com/design/zjvY9inly7CJVJLwe9G2kV/Ignite-Timer-%E2%80%A2-Projeto-React?node-id=0-1&t=Hd8siT3udcNs4jDm-0
+   https://www.figma.com/design/5IttjElJ9SngOIGAcOHGBv/DT-Money-(Community)?node-id=42081-343&m=dev
    ``` 
 
  ## Web project 
