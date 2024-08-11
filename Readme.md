@@ -71,4 +71,4 @@ This project is a fully functional Listing application built using React. The ma
  
  <img src="img/Captura3.png" /> 
  
-[Back](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/tree/main?tab=readme-ov-file#project-deliverable---building-a-timer-with-react--rocketseat)
+[Back](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/tree/main?tab=readme-ov-file#project-delivery---building-a-money-with-react--rocketseat)

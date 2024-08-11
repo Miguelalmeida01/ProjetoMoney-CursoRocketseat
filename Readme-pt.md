@@ -73,4 +73,4 @@ Este projeto é uma aplicação de Listagem totalmente funcional construída usa
 
 <img src="img/Captura3.png" />  
 
-[Voltar](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/blob/main/Readme-pt.md#entrega-de-projeto---criando-um-timer-com-react--rocketseat)
+[Voltar](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/blob/main/Readme-pt.md#entrega-de-projeto---criando-um-money-com-react--rocketseat)
