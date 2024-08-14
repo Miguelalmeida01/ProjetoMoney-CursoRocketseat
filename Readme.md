@@ -1,4 +1,3 @@
-<img src="img/rocketseat.svg" />
 
 <img src="img/logohulk.png" style="width:9.975rem;text-align: right;"/>
 
